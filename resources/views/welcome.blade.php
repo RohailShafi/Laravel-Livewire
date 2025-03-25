@@ -12,6 +12,11 @@
 <h1>
 {{--    Hello World--}}
     <livewire:hello-world> </livewire:hello-world>
+    <bold><hr class="text-danger"></bold>
+        <livewire:counter/>
+    <bold><hr class="text-danger"></bold>
+        <livewire:todos/>
+
 </h1>
 </body>
 </html>
