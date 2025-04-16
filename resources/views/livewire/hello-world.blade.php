@@ -6,4 +6,8 @@
 
     <h1>hello Internet</h1>
     <p>Internet is very interesting thing I love to use it for browsing and for social media</p>
+    <hr/>
+    <hr/>
+    <livewire:inline-component/>
+    <hr/>
 </div>
